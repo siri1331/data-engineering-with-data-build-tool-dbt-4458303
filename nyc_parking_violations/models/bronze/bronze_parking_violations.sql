@@ -1,5 +1,5 @@
 SELECT
-    summons_number,
+    "Summons Number",
     registration_state,
     plate_type,
     issue_date,
